@@ -1,4 +1,4 @@
-# CRUD-ArquiteturaMVC-PadraoCommand
+# CRUD ArquiteturaMVC + PadraoCommand
  
 Este é um pequeno projeto, onde utilizo Design Pattern (Padrão Command) para fazer um CRUD de produtos.
 Para exexutar o projeto, utilize a Classe controladora (Controlle.Produto) + uma acao (?acao=?)
